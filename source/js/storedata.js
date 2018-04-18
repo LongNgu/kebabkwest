@@ -46,10 +46,10 @@ const KebabShopTestData = [
             {day: 'Sunday', open: '10:00', close: '23:00'}
         ],
         comments: []
-    }
+    },
     {
         id: 3,
-        name: 'Aberdeen's Finest Kebabs',
+        name: "Aberdeen's Finest Kebabs",
         mainImageUrl: 'img/Kebab1.jpg',
         latitude: 57.149468,
         longitude: -2.077112,
@@ -70,7 +70,7 @@ const KebabShopTestData = [
     },
     {
         id: 4,
-    name: 'Union Street, Kebabs to eat.',
+        name: 'Union Street, Kebabs to eat',
         mainImageUrl: 'img/kebabshop2.jpg',
         latitude: 57.145464,
         longitude: -2.102926,
@@ -88,8 +88,7 @@ const KebabShopTestData = [
         comments: [
             {author: 'Al', time: '...', comment: 'Still alive.'},
         ]
-        }
-    ],
+    },
     {
         id: 5,
         name: 'Rosemount Queue and Spew',
@@ -110,6 +109,5 @@ const KebabShopTestData = [
         comments: [
             {author: 'Al', time: '...', comment: 'Does what it says on the tin.'},
         ]
-        }
-    ],
+    }
 ];
