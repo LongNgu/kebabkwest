@@ -50,7 +50,7 @@ const KebabShopTestData = [
     {
         id: 3,
         name: 'Aberdeen's Finest Kebabs',
-        mainImageUrl: 'img/charnwood.png',
+        mainImageUrl: 'img/Kebab1.jpg',
         latitude: 57.149468,
         longitude: -2.077112,
         currentAverageRating: 2,
@@ -71,7 +71,7 @@ const KebabShopTestData = [
     {
         id: 4,
     name: 'Union Street, Kebabs to eat.',
-        mainImageUrl: 'img/charnwood.png',
+        mainImageUrl: 'img/kebabshop2.jpg',
         latitude: 57.145464,
         longitude: -2.102926,
         currentAverageRating: 3,
@@ -93,7 +93,7 @@ const KebabShopTestData = [
     {
         id: 5,
         name: 'Rosemount Queue and Spew',
-        mainImageUrl: 'img/charnwood.png',
+        mainImageUrl: 'img/kebabshop3.jpg',
         latitude: 57.150566,
         longitude: -2.111747,
         currentAverageRating: 5,
