@@ -47,4 +47,69 @@ const KebabShopTestData = [
         ],
         comments: []
     }
+    {
+        id: 3,
+        name: 'Aberdeen's Finest Kebabs',
+        mainImageUrl: 'img/charnwood.png',
+        latitude: 57.149468,
+        longitude: -2.077112,
+        currentAverageRating: 2,
+        numberofRatings: 41,
+        openingHours: [
+            {day: 'Monday', open: '10:00', close: '23:00'},
+            {day: 'Tuesday', open: '10:00', close: '23:00'},
+            {day: 'Wednesday', open: '10:00', close: '23:00'},
+            {day: 'Thursday', open: '10:00', close: '23:00'},
+            {day: 'Friday', open: '10:00', close: '23:00'},
+            {day: 'Saturday', open: '10:00', close: '23:00'},
+            {day: 'Sunday', open: '10:00', close: '23:00'}
+        ],
+        comments: [
+            {author: 'Al', time: '...', comment: 'Ate the whole thing.'},
+        ]
+    },
+    {
+        id: 4,
+    name: 'Union Street, Kebabs to eat.',
+        mainImageUrl: 'img/charnwood.png',
+        latitude: 57.145464,
+        longitude: -2.102926,
+        currentAverageRating: 3,
+        numberofRatings: 112,
+        openingHours: [
+            {day: 'Monday', open: '10:00', close: '23:00'},
+            {day: 'Tuesday', open: '10:00', close: '23:00'},
+            {day: 'Wednesday', open: '10:00', close: '23:00'},
+            {day: 'Thursday', open: '10:00', close: '23:00'},
+            {day: 'Friday', open: '10:00', close: '23:00'},
+            {day: 'Saturday', open: '10:00', close: '23:00'},
+            {day: 'Sunday', open: '10:00', close: '23:00'}
+        ],
+        comments: [
+            {author: 'Al', time: '...', comment: 'Still alive.'},
+        ]
+        }
+    ],
+    {
+        id: 5,
+        name: 'Rosemount Queue and Spew',
+        mainImageUrl: 'img/charnwood.png',
+        latitude: 57.150566,
+        longitude: -2.111747,
+        currentAverageRating: 5,
+        numberofRatings: 43,
+        openingHours: [
+            {day: 'Monday', open: '10:00', close: '23:00'},
+            {day: 'Tuesday', open: '10:00', close: '23:00'},
+            {day: 'Wednesday', open: '10:00', close: '23:00'},
+            {day: 'Thursday', open: '10:00', close: '23:00'},
+            {day: 'Friday', open: '10:00', close: '23:00'},
+            {day: 'Saturday', open: '10:00', close: '23:00'},
+            {day: 'Sunday', open: '10:00', close: '23:00'}
+        ],
+        comments: [
+            {author: 'Al', time: '...', comment: 'Does what it says on the tin.'},
+        ]
+        }
+    ],
 ];
